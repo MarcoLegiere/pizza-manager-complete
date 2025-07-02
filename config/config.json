@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "marco1010",
+    "database": "pizza_manager",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
